@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="archivetestdata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Python313/Lib/test/archivetestdata/zipdir_backslash.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Python313/Lib/test/archivetestdata/zip_cp437_header.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Python313/Lib/test/archivetestdata/zipdir.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
